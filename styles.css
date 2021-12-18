@@ -1,0 +1,21 @@
+h1,
+h2 {
+    color: rgba(242, 182, 250, 0.932);
+}
+
+.smth {
+    color: rgb(80, 150, 255);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.alex {
+    color: indigo;
+    font-size: xx-large;
+}
+
+.all {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
